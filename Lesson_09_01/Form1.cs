@@ -4,6 +4,7 @@ namespace Lesson_09_01
 {
     public partial class Form1 : Form
     {
+        //test commit
         enum ShapeTypes { Rectangle, Line, Ellipse, Dot }
         Point startPosition;
         List<MyShape> shapes = new List<MyShape>();
